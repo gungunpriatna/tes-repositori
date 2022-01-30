@@ -1,0 +1,1 @@
+direktori install phpmyadmin
